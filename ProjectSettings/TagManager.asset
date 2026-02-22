@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - RedKey
+  - GreenKey
+  - YellowKey
   layers:
   - Default
   - TransparentFX
