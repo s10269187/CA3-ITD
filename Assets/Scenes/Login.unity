@@ -815,6 +815,7 @@ GameObject:
   - component: {fileID: 746085091}
   - component: {fileID: 746085096}
   - component: {fileID: 746085090}
+  - component: {fileID: 746085097}
   m_Layer: 0
   m_Name: f
   m_TagString: Untagged
@@ -1046,6 +1047,19 @@ MonoBehaviour:
   usernameText: {fileID: 853428059}
   passwordText: {fileID: 869540955}
   messageText: {fileID: 1631113177}
+--- !u!114 &746085097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 746085089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022a632c202653b4cafe369ee9db28d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: AfterLogin
 --- !u!1 &756192406
 GameObject:
   m_ObjectHideFlags: 0
